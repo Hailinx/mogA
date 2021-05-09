@@ -1,2 +1,1 @@
-# mogA
-mogA - Mobile Games Automator
+test
